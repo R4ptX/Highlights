@@ -1,2 +1,0 @@
-# Highlights
-InfoOps CTF Highlights
