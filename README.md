@@ -16,5 +16,6 @@ To add a new placement to the table, please update the repository with the follo
 If you have any questions or suggestions, feel free to:
 - Open an issue in the repository.
 - Join us on Discord.
+- Please note that if the fork is already present, ensure it is synced.
 
 Let’s continue to grow, compete, and make an impact in the CTF community!
